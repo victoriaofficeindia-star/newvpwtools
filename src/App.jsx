@@ -623,11 +623,11 @@ function App() {
             <span>Discipline</span>
           </div>
           <div className="hero-copy">
-            <p>VPW Calculators</p>
-            <h1>Minimal calculators for Not-so serious wealth decisions.</h1>
+            <p>VPW Labs</p>
+            <h1>Quick math for decisions that actually matter.</h1>
             <span>
-              SIP, SWP, lumpsum, loan EMI, and retirement planning projections in
-              a clean black and white morphism interface.
+              Project Quickly Your SIP, SWP, Lumpsum, Loan and Retirement Maths
+              Simply, Easy and Downloadable. Scroll Below to start
             </span>
           </div>
         </section>
