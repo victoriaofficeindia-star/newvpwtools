@@ -627,7 +627,7 @@ function App() {
             <h1>Quick math for decisions that actually matter.</h1>
             <span>
               Project Quickly Your SIP, SWP, Lumpsum, Loan and Retirement Maths
-              Simply, Easy and Downloadable. Scroll Below to start
+              Simple, Easy and Downloadable. Scroll Below to start
             </span>
           </div>
         </section>
