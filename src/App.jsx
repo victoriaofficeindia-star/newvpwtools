@@ -624,7 +624,7 @@ function App() {
           </div>
           <div className="hero-copy">
             <p>VPW Calculators</p>
-            <h1>Minimal calculators for serious wealth decisions.</h1>
+            <h1>Minimal calculators for Not-so serious wealth decisions.</h1>
             <span>
               SIP, SWP, lumpsum, loan EMI, and retirement planning projections in
               a clean black and white morphism interface.
